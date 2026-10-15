@@ -31,7 +31,7 @@ func main() {
 		return
 	}
 
-	fmt.Println("--- Texte original ---")
+	fmt.Println("---Texte original---")
 	fmt.Print(string(data))
 	fmt.Println("\n--- Texte corrigé ---")
 	fmt.Println(result)

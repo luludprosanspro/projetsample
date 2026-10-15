@@ -8,4 +8,3 @@ zz (hex) stays and 12 (bin) too
 hello (up, 5) world
 A hour later, a elephant and a unicorn and a ' honest ' man
 (up) alone at the start
-go (up) , then (low) stop
