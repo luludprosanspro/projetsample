@@ -1,0 +1,2 @@
+se projet corrige un texte (hex, bin, up, low, cap, ponctuation, apostrophes, a/an). pour cela il faut écrire son texte dans
+"sample.txt", puis lancer "go run ." pour voir la correction dans le terminal. pour afficher dans un fichier, je n'est pas réussi.
